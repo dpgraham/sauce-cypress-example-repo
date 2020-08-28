@@ -1,0 +1,22 @@
+{
+  "name": "testrunner-toolkit-cascadia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpgraham/testrunner-toolkit-cascadia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpgraham/testrunner-toolkit-cascadia/issues"
+  },
+  "homepage": "https://github.com/dpgraham/testrunner-toolkit-cascadia#readme",
+  "dependencies": {
+    "saucectl": "^0.11.1"
+  }
+}
