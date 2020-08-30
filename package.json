@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dpgraham/testrunner-toolkit-cascadia#readme",
   "dependencies": {
+    "cypress": "^5.0.0",
     "saucectl": "^0.11.1"
   }
 }
