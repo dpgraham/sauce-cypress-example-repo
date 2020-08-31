@@ -23,7 +23,7 @@ Sauce Labs Testrunner Toolkit is a containerized testing solution that simplifie
 Using NPM:
 
 ```sh
-npm i -g saucectl
+npm install -g saucectl
 ```
 
 ## Connect to Sauce Labs
