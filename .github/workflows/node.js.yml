@@ -25,4 +25,4 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm ci
-    - run: npx saucectl run
+    - run: npx saucectl run -c ./.sauce/config.yml
