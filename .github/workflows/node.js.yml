@@ -25,4 +25,4 @@ jobs:
       with:
         node-version: 14.x
     - run: npm ci
-    - run: npx cypress run --record --parallel
+    - run: npx cypress run --record --key=abc123 --parallel
