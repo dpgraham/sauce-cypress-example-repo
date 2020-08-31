@@ -25,4 +25,4 @@ jobs:
       with:
         node-version: 14.x
     - run: npm ci
-    - run: npx saucectl run
+    - run: npx cypress run --record --parallel --key=parallel
