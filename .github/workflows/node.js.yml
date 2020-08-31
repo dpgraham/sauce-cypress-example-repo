@@ -9,6 +9,10 @@ on:
   pull_request:
     branches: [ master ]
 
+env:
+  SAUCE_ACCESS_KEY: ${{secrets.SAUCE_ACCESS_KEY}}
+  SAUCE_USERNAME: ${{secrets.SAUCE_USERNAME}}
+
 jobs:
   cypress:
     runs-on: ubuntu-latest
