@@ -27,7 +27,6 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 14.x
-    - run: npm install -g saucectl
     - run: saucectl run
       env:
           BUILD_ID: ${{ github.run_id }}
