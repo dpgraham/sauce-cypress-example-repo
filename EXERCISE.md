@@ -20,8 +20,7 @@ As a user, I should be able to add multiple items to the shopping cart and then 
 ### TEST CASE 4
 As a user, I should be able to sort the items in reverse alphabetical order
 
-### TEST CASE 5
-
+### 
 
 ## OPTION B
 
