@@ -27,4 +27,4 @@ If you have another web application that you wish to write tests for, you're wel
 
 ## OPTION C
 
-Just hang out and don't do anything. I won't judge.
+Just take a break and don't do anything. I won't judge.
