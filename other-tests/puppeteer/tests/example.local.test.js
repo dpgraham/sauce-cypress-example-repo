@@ -3,7 +3,7 @@ const puppeteer = require('puppeteer')
 describe('saucectl demo test', () => {
 	test('should verify title of the page', async () => {
         const browser = await puppeteer.launch({
-            headless: false,
+            //headless: false,
             slowMo: 250,
         });
 		const page = (await browser.pages())[0]
