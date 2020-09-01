@@ -26,6 +26,23 @@ Using NPM:
 npm install -g saucectl
 ```
 
+## Running Cypress Tests Locally
+
+Install Cypress using NPM
+```sh
+npm install -g cypress
+```
+
+Run the tests
+```sh
+cypress run
+```
+
+Open the dashboard
+```sh
+cypress open
+```
+
 ## Connect to Sauce Labs
 
 A Sauce Labs user name and access key are needed to post the test results. You can get your `SAUCE_ACCESS_KEY` from
