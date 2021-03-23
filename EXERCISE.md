@@ -6,7 +6,7 @@ Now that you have been introduced to Cypress, I'm going to give you all the task
 
 Write tests for www.saucedemo.com (this is a test site, I'm not making you write tests for Sauce Labs ;))
 
-For this activity, we'll make use of Cypress' behavior driven development (see https://docs.cypress.io/guides/references/assertions.html#BDD-Assertions) and you'll write tests for the following five test cases
+For this activity, we'll make use of Cypress' behavior driven development (see https://docs.cypress.io/guides/references/assertions.html#BDD-Assertions) and you'll write tests for the following four test cases
 
 ### TEST CASE 1
 As a user, I should be able to log into www.saucedemo.com and then log out.
@@ -20,7 +20,6 @@ As a user, I should be able to add multiple items to the shopping cart and then 
 ### TEST CASE 4
 As a user, I should be able to sort the items in reverse alphabetical order
 
-### 
 
 ## OPTION B
 
@@ -28,4 +27,4 @@ If you have another web application that you wish to write tests for, you're wel
 
 ## OPTION C
 
-Just hang out and don't do anything. I won't judge.
+Just take a break and don't do anything. I won't judge.
