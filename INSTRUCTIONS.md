@@ -1,6 +1,6 @@
 # CYPRESS ON SAUCE LABS
 
-This page is an example project that demonstrates how to run Cypress tests and how to run Cypress tests on the Sauce cloud. This project 
+This page is an example project that demonstrates how to run Cypress tests and how to run Cypress tests on the Sauce cloud. This project automates https://www.saucedemo.com/
 
 ## Installation
 1. Install dependencies with `npm install`
