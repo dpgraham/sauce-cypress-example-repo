@@ -1,4 +1,7 @@
-# Cypress + TestRunner Toolkit Cascadia Conference
+# CYPRESS ON SAUCE LABS
+
+To get setup, follow the [Instructions](./instructions) page.
+
 
 <!-- [START badges] -->
 ![Build](https://github.com/saucelabs/testrunner-toolkit/workflows/Sauce%20Pipeline%20Browser%20Tests/badge.svg?branch=master)
